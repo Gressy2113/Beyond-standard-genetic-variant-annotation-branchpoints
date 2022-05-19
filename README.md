@@ -1,2 +1,2 @@
-# Beyond-standard-genetic-variant-annotation-branchpoints
+# Beyond standard genetic variant annotation: branchpoints
 ----
